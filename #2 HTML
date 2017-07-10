@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Blog post</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div>
+    <div class="header1">
+      <div class="photo">
+        <img class="imgverus" src="images/verus.jpeg" alt="photo verus">
+      </div>
+      <div class="header1text">
+        <p>
+          Verus<br> Digital Media Consultant. Music Fan. Rainmaker<br> Apr 7 • 3 min read
+        </p>
+      </div>
+    </div>
+    <div class="header2">
+      <div class="headline">
+        <h1>How to find the best online courses for learning new digital skills</h1>
+      </div>
+      <div class="illustration1">
+        <img class="imglearning" src="images/learning.jpeg" alt="image learning">
+        <div class="credits">
+          ideyweb/Shutterstock
+        </div>
+      </div>
+    </div>
+    <div class="paragraph">
+      <p>
+        Have you ever wondered why you went through college, got your master’s, progressed in your job — only to find yourself with a skills gap mid-career ? <br><br> You’ve heard it all before: the fast rate of technological change affects many professions,
+        and gaining expertise in digital advertising, data science or web development has become vital. For example, if you work in marketing, you increasingly need to be able to write some basic code. Almost half of the postings for top jobs in America
+        now <a href="https://www.economist.com/news/special-report/21714169-technological-change-demands-stronger-and-more-continuous-connections-between-education" target="_blank">frequently ask for coding know-how.</a>
+        <br><br> At the same time, company training often still focuses on traditional management tools. Who hasn’t gone through workshops on Steven Covey’s<em>7 Habits of Highly Effective People,</em>on negotiation strategies or teamwork principles?
+        Do these coachings ensure that you stay relevant in tomorrow’s job market? I wouldn’t bet on it.
+      </p>
+    </div>
+    <div class="paragraph">
+      <h3>Do it yourself</h3>
+      <p>
+        Some years ago, I stumbled upon a great<em>DIY Digital Media Career Guide</em>DIY Digital Media Career Guide by Canadian blogger <a href="https://www.diygenius.com/about/" target="_blank">Kyle Pearce</a>. This was a turning point for me — I understood
+        that every digital skill can be self-taught! Online learning sites such as Udemy or Codeacademy as well as companies like Hootsuite had started to offer free tuition on anything from app development to Google analytics to launching a startup.
+        So I dived deep into web technology, did basic Javascript programming and trained my SEO knowledge. However, my initial excitement was followed some months later by the sober realization that I hadn’t finished ANY of my courses. It turned out
+        that I was in good company: less than 20% of enrolled students were believed to complete their online studies at the time.
+      </p>
+    </div>
+    <div class="paragraph">
+      <h3>More interaction, please!</h3>
+      <p>
+        What was missing? For starters, no reward for course completion in form of a certificate was offered. Little contact with fellow students or faculty meant studying in a feeling of isolation. Programs lacked employer credentials. Most importantly, courses
+        were often one-directional and no input from the student was required. But digital skills, such as advertising on Google or boosting Facebook posts, are hands-on. Any training in this field has to reflect that by incorporating real-life projects.<br><br>Fortunately,
+        things have improved. Hubspot and others have started with certificate courses. Facebook followed suit with its Blueprint platform, where, after a rigorous test, you can earn a badge to add to your social profile or website. The online learning
+        platform Udacity has established its Nanodegrees which feature a leading edge curriculum built with industry heavyweights such as Amazon or Google.<br><br> So when Udacity sent me an invitation to its <a href="https://www.udacity.com/course/digital-marketing-nanodegree--nd018"
+          target="_blank">Digital Marketing Nanodegree</a>, I immediately signed up. I was not disappointed. Students and teachers actively chat on Slack, my mentor says Hello once a week and projects are reviewed by real people. I almost feel like I’m
+        back at college again! If online education continues on this path, offering quality tuition combined with project work and lots of interaction, I will happily become a lifelong learner.
+      </p>
+    </div>
+    <div class="illustration2">
+      <img class="imglearning" src="images/lifelong.jpg" alt="image lifelong learning">
+      <div class="credits">
+        Filipe Frazao/Shutterstock
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
